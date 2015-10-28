@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LenovoYxt</string>
+
+
+    <!--Crash-->
+    <string name="app_runtime_exception">程序遇到一个异常,即将退出</string>
+
+    <!--Volley-->
+    <string name="no_network">当前没有网络...</string>
+
+    <string name="param_is_non">传递参数不能为空</string>
+
+</resources>

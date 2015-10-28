@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- TitleView start -->
+    <declare-styleable name="TitleView">
+        <attr name="mytitle" format="string" />
+    </declare-styleable>
+    <!-- TitleView end -->
+</resources>
